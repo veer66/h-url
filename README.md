@@ -13,6 +13,8 @@ def h_url(url, method="GET", headers={}, body="")
 end
 ````
 
+I intend it to be copied and pasted rather than using via gem.
+
 ## Usage example ##
 
 ````ruby
